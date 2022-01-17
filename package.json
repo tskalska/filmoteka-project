@@ -16,7 +16,7 @@
   "author": "Olga Tiutiunnyk <izachok@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tskalska/filmoteka-project-1/issues"
+    "url": "https://github.com/tskalska/filmoteka-project-1npm "
   },
   "staticFiles": {
     "staticPath": "src/public",
