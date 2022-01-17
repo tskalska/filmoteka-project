@@ -1,22 +1,22 @@
 {
-  "name": "filmoteka-project",
+  "name": "filmoteka-project-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://izachok.github.io/filmoteka-project",
+  "homepage": "https://tskalska.github.io/filmoteka-project-1",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-project/"
+    "build": "parcel build src/*.html --public-url /filmoteka-project-1/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izachok/filmoteka-project.git"
+    "url": "git+https://github.com/tskalska/ffilmoteka-project-1.git"
   },
   "keywords": [],
   "author": "Olga Tiutiunnyk <izachok@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/izachok/filmoteka-project/issues"
+    "url": "https://github.com/tskalska/filmoteka-project-1/issues"
   },
   "staticFiles": {
     "staticPath": "src/public",
