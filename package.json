@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tskalska/ffilmoteka-project-1.git"
+    "url": ""
   },
   "keywords": [],
-  "author": "Olga Tiutiunnyk <izachok@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tskalska/filmoteka-project-1npm "
