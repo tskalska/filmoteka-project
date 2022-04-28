@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://tskalska.github.io/filmoteka-project-1",
+  "homepage": "https://tskalska.github.io/filmoteka-project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-project-1/"
+    "build": "parcel build src/*.html --public-url /filmoteka-project/"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tskalska/filmoteka-project-1npm "
+    "url": "https://github.com/tskalska/filmoteka-project "
   },
   "staticFiles": {
     "staticPath": "src/public",
